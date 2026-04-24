@@ -1,0 +1,19 @@
+﻿{
+  "agent": {
+    "name": "uni5-BA-agent",
+    "version": "2.0.0",
+    "role": "Business Analyst — issues only"
+  },
+  "project": {
+    "name": null,
+    "stack": null,
+    "repo_url": null,
+    "owner": null,
+    "repo": null
+  },
+  "answers": {},
+  "sprint": {
+    "current": 1,
+    "issues": []
+  }
+}
